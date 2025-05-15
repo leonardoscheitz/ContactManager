@@ -18,6 +18,6 @@ ContactManager é um projeto simples de gerenciamento de contatos feito em Java,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ContactManager.git
+   git clone https://github.com/leonardoscheitz/ContactManager.git
    cd ContactManage
 
